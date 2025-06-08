@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Sacredier",
+        "link": "https://www.youtube.com/@Sacredier"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ImFeelingGreen/Blast",
+        "link": "https://www.youtube.com/@ImFeelingGreen_GD-im6bs"
     },
     {
         "role": "helper",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Sacredier",
+        "link": "https://www.youtube.com/@Sacredier"
     }
 ]
