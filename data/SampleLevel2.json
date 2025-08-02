@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Open",
     "records": [
+        {
+            "user": "Yoshi_DT",
+            "link": "https://www.youtube.com/watch?v=sesor1vzWPU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
