@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Open",
     "records": [
+         {
+            "user": "Lithiax",
+            "link": "https://youtu.be/lGMX8WXMSQg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
